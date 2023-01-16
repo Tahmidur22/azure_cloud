@@ -1,4 +1,4 @@
-# azure_ci/cd_pipeline
+# azure CI/CD DevOps Pipeline 
 
 <img width="1213" alt="Screenshot 2023-01-16 at 15 18 02" src="https://user-images.githubusercontent.com/65872348/212713823-b308a94f-6dff-45e9-ad1d-3e916d799dd4.png">
 <img width="1042" alt="Screenshot 2023-01-16 at 15 20 40" src="https://user-images.githubusercontent.com/65872348/212713890-ed82e1cc-e622-4d34-8678-5b5d4bf0fcdd.png">
