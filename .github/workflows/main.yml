@@ -32,4 +32,3 @@ jobs:
       with:
         push: true
         tags: tcgithubacr.azurecr.io/aspcoresample:${{ github.sha }}
-        file: aspnet-core-dotnet-core/Dockerfile
