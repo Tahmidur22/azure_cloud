@@ -1,7 +1,7 @@
 #!/bin/sh
   
-ACR_RESOURCE_GROUP_NAME="githubacr-rg"
-ACR_NAME="githubacr"
+ACR_RESOURCE_GROUP_NAME="tcgithubacr-rg"
+ACR_NAME="tcgithubacr"
   
 # Create a resource group to store container registry
 az group create --name $ACR_RESOURCE_GROUP_NAME --location uksouth
