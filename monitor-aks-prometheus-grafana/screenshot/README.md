@@ -1,2 +1,0 @@
-# Monitoring azure_cloud
-
