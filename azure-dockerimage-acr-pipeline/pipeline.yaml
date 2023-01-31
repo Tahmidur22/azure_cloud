@@ -7,7 +7,7 @@ pr: none
 
 variables:
   - name: repository
-    value: 'devopsjourney'
+    value: 'azurecloud'
   - name: dockerfile
     value: '$(Build.SourcesDirectory)/aspnet-core-dotnet-core/Dockerfile'
   - name: containerRegistry
